@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![xihooo](https://img.shields.io/badge/xihooo-github-blue?logo=github)](https://github.com/xihooo)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a doctoral student at the School of Electrical and Information Engineering, Tianjin University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: xihoo[at]tju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+D.E., Electronic and Information Engineering, Tianjin University, 2025—NOW.\
+M.E., Robots Engineering, Qingdao University of Science and Technology, 2021—2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Robots, Motion Planning, Trajectory Tracking, UAV Swarm, Machine Learning, Game Strategies.
 
